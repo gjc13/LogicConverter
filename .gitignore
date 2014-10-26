@@ -73,6 +73,8 @@ $RECYCLE.BIN/
 # Complie Files
 \Debug\
 \Release\
+\LogicConverter\Debug\
+\LogicConverter\Release\
 
 # VS bufs
 *.sdf
