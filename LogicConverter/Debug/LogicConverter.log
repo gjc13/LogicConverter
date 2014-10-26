@@ -1,0 +1,21 @@
+﻿生成启动时间为 2014/10/17 20:05:20。
+     1>项目“D:\documents\大二上\数电\LogicConverter\LogicConverter\LogicConverter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SimplifiedExpression.cpp
+         SimplifiedExpression.cpp
+     1>d:\documents\大二上\数电\logicconverter\logicconverter\simplifiedexpression.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\documents\大二上\数电\logicconverter\logicconverter\simplifiedexpression.cpp(303): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\documents\大二上\数电\LogicConverter\Debug\LogicConverter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\documents\大二上\数电\LogicConverter\Debug\LogicConverter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\documents\大二上\数电\LogicConverter\Debug\LogicConverter.lib" /MACHINE:X86 Debug\ExpressionTree.obj
+         Debug\LogicExpression.obj
+         Debug\main.obj
+         Debug\MinSingle.obj
+         Debug\MinSum.obj
+         Debug\SimplifiedExpression.obj
+         Debug\SingleItem.obj
+         LogicConverter.vcxproj -> D:\documents\大二上\数电\LogicConverter\Debug\LogicConverter.exe
+     1>已完成生成项目“D:\documents\大二上\数电\LogicConverter\LogicConverter\LogicConverter.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.01

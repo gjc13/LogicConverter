@@ -69,3 +69,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# Complie Files
+\Debug\
+\Release\
+
+# VS bufs
+*.sdf
